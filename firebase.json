@@ -1,0 +1,33 @@
+{
+	"rooms": {
+		"0":{
+			"id": "0",
+			"name": "Javascript",
+			"chats": {
+
+			}
+		},
+
+		"1":{
+			"id": "1",
+			"name": "Ruby",
+			"chats": {
+				
+			}
+		},
+		"2":{
+			"id": "2",
+			"name": "Seahawks",
+			"chats": {
+
+			}
+		},
+		"3":{
+			"id": "3",
+			"name": "Lakers",
+			"chats": {
+
+			}
+		}
+	}
+}
